@@ -29,8 +29,8 @@
         let cart = JSON.parse(localStorage.getItem('bakeryCart')) || [];
         let orders = JSON.parse(localStorage.getItem('bakeryOrders')) || [];
 
-        const OWNER_PHONE = '+919876543210'; // Change this to your actual WhatsApp number
-        const OWNER_EMAIL = 'bakery@sweetshop.com'; // For email confirmation
+        const OWNER_PHONE = '+918950050763'; // Change this to your actual WhatsApp number
+        const OWNER_EMAIL = 'suresh2000kumae@gmail.com'; // For email confirmation
         
         // Admin credentials - CHANGE THESE!
         const ADMIN_USERNAME = 'admin';
