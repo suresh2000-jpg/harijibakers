@@ -23,7 +23,7 @@
                 description: 'Buttery French croissants, fresh daily',
                 emoji: '🥐',
                 image: null
-            }
+            },
             {
                 id: 4,
                 name: 'Croissants',
