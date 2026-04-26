@@ -29,7 +29,7 @@
                 name: 'Croissants',
                 price: 80,
                 description: 'Buttery French croissants, fresh daily',
-                // emoji: '🥐',
+                emoji: '🥐',
                 image: utils.whhh.jpg
             }
         ];
