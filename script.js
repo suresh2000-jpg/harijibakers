@@ -24,6 +24,14 @@
                 emoji: '🥐',
                 image: null
             }
+            {
+                id: 4,
+                name: 'Croissants',
+                price: 80,
+                description: 'Buttery French croissants, fresh daily',
+                // emoji: '🥐',
+                image: utils.whhh.jpg
+            }
         ];
 
         let cart = JSON.parse(localStorage.getItem('bakeryCart')) || [];
